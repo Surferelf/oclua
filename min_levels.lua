@@ -63,5 +63,3 @@ for curIdx = 1, #items do
         end
     end
 end
-io.write("Sleeping for " .. loopDelay .. " seconds...\n\n")
-os.sleep(loopDelay)
